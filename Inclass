@@ -1,0 +1,116 @@
+output 1:
+None of the values is matching
+Exact value of a is: 100
+
+output 2:
+Value of b is 30
+Value of b is 20
+
+output 3:
+Well done
+Your grade is  B
+
+output 4:
+12
+1 2 
+
+output 5:
+Element[0] = 100
+Element[1] = 101
+Element[2] = 102
+Element[3] = 103
+Element[4] = 104
+Element[5] = 105
+Element[6] = 106
+Element[7] = 107
+Element[8] = 108
+Element[9] = 109
+
+output 6:
+Address of var variable: 3722f930
+Address stored in ip variable: 3722f940
+Value of *ip variable: 0
+
+
+output 7:
+Book 1 title : C Programming
+Book 1 author : Nuha Ali
+Book 1 subject : C Programming Tutorial
+Book 1 book_id : 6495407
+Book 2 title : Telecom Billing
+Book 2 author : Zara Ali
+Book 2 subject : Telecom Billing Tutorial
+Book 2 book_id : 6495700
+
+
+
+output 8:
+Book title : C Programming
+Book author : Nuha Ali
+Book subject : C Programming Tutorial
+Book book_id : 6495407
+Book title : Telecom Billing
+Book author : Zara Ali
+Book subject : Telecom Billing Tutorial
+Book book_id : 6495700
+
+
+output 9:
+Book title : C Programming
+Book author : Nuha Ali
+Book subject : C Programming Tutorial
+Book book_id : 6495407
+Book title : Telecom Billing
+Book author : Zara Ali
+Book subject : Telecom Billing Tutorial
+Book book_id : 6495700
+
+
+
+output 10:
+Memory size occupied by data : 20
+
+
+output 11:
+data.i : 1917853763
+data.f : 4122360580327794860452759994368.000000
+data.str : C Programming
+
+output 12:
+data.i : 10
+data.f : 220.500000
+data.str : C Programming
+
+output 13:
+Before Swap
+a = 45 b = 35
+After Swap with pass by reference
+a = 35 b = 45
+
+output 14:
+Enter a value :16
+
+You entered: 1
+
+
+output 15:
+Enter a value :5
+
+You entered: 5
+
+
+output 16:
+Enter a value :7
+5
+
+You entered: 7 5 
+
+
+output 17:
+created new text file:
+This is testing for fprintf...
+This is testing for fputs...
+
+
+
+
